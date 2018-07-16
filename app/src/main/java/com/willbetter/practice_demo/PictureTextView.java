@@ -100,6 +100,7 @@ public class PictureTextView extends AppCompatTextView {
         int length = text.length();
         for (int i = 0; i < length; i++) {
             text.charAt(i);
+
 //            canvas.drawText();
         }
     }
