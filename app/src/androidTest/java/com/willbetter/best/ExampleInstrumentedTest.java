@@ -1,4 +1,4 @@
-package com.willbetter.practice_demo;
+package com.willbetter.best;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
